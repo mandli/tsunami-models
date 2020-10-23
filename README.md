@@ -6,6 +6,7 @@ available.  This list was started based on a review paper that is currently
 itself under review.  Check back soon for a draft and how to contribute.
 
  Model | Space Dimensions | Equations | Turbulence | Wave breaking | $FSI$ | $MP$
+ 
 -------------------------------------------------------------------------------------------------------------
  GeoCLAW \cite{berger2011geoclaw} |   1D/2D/2D$\frac{1}{2}$ | $SW$ | No | No | No | No
  NUMA2D \cite{giraldoRestelli2008b, marrasEtAl2015, marrasEtAl2017residual} | 1D/2D | $SW$ | No | No | No | No
