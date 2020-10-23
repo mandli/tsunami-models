@@ -31,4 +31,3 @@ itself under review.  Check back soon for a draft and how to contribute.
  TSUNAMI3D \cite{horrilloEtAl2013TSUNAMI3D}| 2D/3D | N-S | RANS | Yes | No | No
  waves2FOAM \cite{jacobsenEtAl2012,larsenFuhrman2019a, larsenFuhrman2019b} | 2D (tsunami) | N-S | RANS | Yes | No | No
  Alya \cite{vazquezEtAlAlya2016,mukherjeeEtAl2020parcfd} |  2D/3D | N-S | LES/WM/RANS | Yes | Yes| Yes
--------|------------------|-----------|------------|---------------|-----|----
