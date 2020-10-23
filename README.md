@@ -5,7 +5,7 @@ available tsunami models currently **maintained** and publicly (openly)
 available.  This list was started based on a review paper that is currently 
 itself under review.  Check back soon for a draft and how to contribute.
 
-
+(WARNING: citations still need to be formatted)
 
  Model | Space Dimensions | Equations | Turbulence | Wave breaking | FSI | MP
 -------|------------------|-----------|------------|---------------|-----|----
