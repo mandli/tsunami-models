@@ -36,4 +36,11 @@ itself under review.  Check back soon for a draft and how to contribute.
 | Alya[39,40]            | 2D/3D               | N-S       | LES/WM/RANS | Yes        | Yes | Yes | FE    |
 
 
+# References
+[1] Berger, M.; George, D.; LeVeque, R.; Mandli, K.  The GeoClaw software for depth-averaged flows withadaptive refinement.Adv. Water Res.2011,34, 1195–1206.
+[2] Marras, S.; Kopera, M.; Giraldo, F.X.  Simulation of Shallow Water Jets with a Unified Element-basedContinuous/Discontinuous Galerkin Model with Grid Flexibility on the Sphere.Q. J. Roy. Meteor. Soc.2015,141, 1727–1739.
+[3] Marras, S.; Kopera, M.; Constantinescu, E.; Suckale, J.; Giraldo, F.  A Residual-based Shock CapturingScheme for the Continuous/Discontinuous Spectral Element Solution of the 2D Shallow Water Equations.Adv. Water Res.2018,114, 45–63.
+[4] Titov, V.V.; Gonzalez, F. Implementation and testing of the Method Of Splitting Tsunami (MOST) model.NOAA Technical Memorandum ERL PMEL-112 1927, NOAA, Seattle, WA,USA. Technical report, 1997.
+... TBC
+
 
