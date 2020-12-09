@@ -37,10 +37,86 @@ itself under review.  Check back soon for a draft and how to contribute.
 
 
 # References
-[1] Berger, M.; George, D.; LeVeque, R.; Mandli, K.  The GeoClaw software for depth-averaged flows withadaptive refinement.Adv. Water Res.2011,34, 1195–1206.\n
-[2] Marras, S.; Kopera, M.; Giraldo, F.X.  Simulation of Shallow Water Jets with a Unified Element-basedContinuous/Discontinuous Galerkin Model with Grid Flexibility on the Sphere.Q. J. Roy. Meteor. Soc.2015,141, 1727–1739.\n
-[3] Marras, S.; Kopera, M.; Constantinescu, E.; Suckale, J.; Giraldo, F.  A Residual-based Shock CapturingScheme for the Continuous/Discontinuous Spectral Element Solution of the 2D Shallow Water Equations.Adv. Water Res.2018,114, 45–63.\n
-[4] Titov, V.V.; Gonzalez, F. Implementation and testing of the Method Of Splitting Tsunami (MOST) model.NOAA Technical Memorandum ERL PMEL-112 1927, NOAA, Seattle, WA,USA. Technical report, 1997.\n
-... TBC\n
+[1] Berger, M.; George, D.; LeVeque, R.; Mandli, K.  The GeoClaw software for depth-averaged flows withadaptive refinement.Adv. Water Res. 2011,34, 1195–1206.
+
+[2] Marras, S.; Kopera, M.; Giraldo, F.X.  Simulation of Shallow Water Jets with a Unified Element-basedContinuous/Discontinuous Galerkin Model with Grid Flexibility on the Sphere.Q. J. Roy. Meteor. Soc. 2015,141, 1727–1739.
+
+[3] Marras, S.; Kopera, M.; Constantinescu, E.; Suckale, J.; Giraldo, F.  A Residual-based Shock CapturingScheme for the Continuous/Discontinuous Spectral Element Solution of the 2D Shallow Water Equations.Adv. Water Res. 2018,114, 45–63.
+
+[4] Titov, V.V.; Gonzalez, F. Implementation and testing of the Method Of Splitting Tsunami (MOST) model.NOAA Technical Memorandum ERL PMEL-112 1927, NOAA, Seattle, WA,USA. Technical report, 1997.
+
+[5] Tolkova, E. Land–water boundary treatment for a tsunami model with dimensional splitting.Pure Appl.Geophys. 2014,171, 2289–2314.
+
+[6] Castro,  M.;  Ferreiro Ferreiro,  A.;  Garcia-Rodriguez,  J.;  Gonzalez-Vida,  J.;  Macias,  J.;  Pares,  C.;  ElenaVazquez-Cendon, M. The numerical treatment of wet/dry fronts in shallow flows: application to one-layerand two-layer systems.Math. Comput. Model. 2005,42, 419 – 439.
+
+[7] Macías, J.; Escalante, C.; Castro, M.J. Multilayer-HySEA model validation for landslide generated tsunamis.Part I Rigid slides.Natural Hazards and Earth System Sciences Discussions.  10.5194/nhess-2020-1712020, 2020, 1–33.
+
+[8] Macías, J.; Escalante, C.; Castro, M.J. Multilayer-HySEA model validation for landslide generated tsunamis.Part II Granular slides.Natural Hazards and Earth System Sciences Discussions, 10.5194/nhess-2020-1722020, 2020, 1–34.
+
+[9] Imamura, F.   Tsunami numerical simulation with the staggered leap-frog scheme (numerical code ofTUNAMI-N1 and N2), 1989.
+
+[10] Imamura, F.; Yalciner, A.; Ozyurt, G. Tsunami Modelling Manual.  Technical report,  2006.
+
+[11] Yalciner,  A.;  Pelinovsky,  E.;  Zaytsev,  A.;  Kurkin,  A.;  Ozer,  C.;  Karakus,  H.   NAMI DANCE Manual.Technical report, METU, Civil Engineering Department, Ocean Engineering Research Center, Ankara,Turkey, 2006.
+
+[12] Wang, X. User manual for COMCOT version 1.7.  Technical report, 2009.
+
+[13] Zhang, Y.; Baptista, A. An efficient and robust tsunami model on unstructured grids. Part I: inundationbenchmarks.Pure Appl. Geophys. 2008,165, 2229–2248.
+
+[14] Harig, S.; Chaeroni, X.; Pranowo, W.; Behrens, J.  Tsunami simulations on several scales: comparison ofapproaches with unstructured meshes and nested grids.Ocean Dyn. 2008,58, 429–440.
+
+[15] Pranowo,  W.;  Behrens,  J.;  Schlicht,  J.;  Ziemer,  C.Adaptive  mesh  refinement  applied  to  tsunamimodeling:  TsunaFLASH.  In Proc.  Int.  Conf.  on Tsunami Warning (ICTW) (ed.  H Adrianto).  Jakarta,Indonesia:  State Ministry of Research and Technology, Republic of Indonesia (RISTEK). Available at:http://hdl.handle.net/10013/epic.32425.d001,  2008.
+
+[16] Dutykh, D.; Poncet, R.; Dias, F. The VOLNA code for the numerical modeling of tsunami waves: generation,propagation and inundation.Eur. J. Mech. B/Fluids 2011,30, 598–615.
+
+[17] Reguly,  I.Z.;  Giles,  D.;  Gopinathan,  D.;  Quivy,  L.;  Beck,  J.H.;  Giles,  M.B.;  Guillas,  S.;  Dias,  F.   TheVOLNA-OP2 tsunami code (version 1.5).Geoscientific Model Development 2018, 11, 4621–4635.
+
+[18] Roelvink,  J.;  Van  Banning,  G.Design  and  development  of  DELFT3D  and  application  to  coastalmorphodynamics.Oceanographic Lit. Review 1995,42, 925–
+
+[19] Popinet,  S.   Basilisk:  simple abstractions for octree-adaptive scheme.SIAM conference on ParallelProcessing for Scientific Computing. April 12-15; 2016.
+
+[20] Popinet, S.   A quadtree-adaptive multigrid solver for the Serre–Green–Naghdi equations.Journal ofComputational Physics 2015,302, 336 – 358.  doi:https://doi.org/10.1016/j.jcp.2015.09.009
+
+[21] Popinet, S. A vertically-Lagrangian, non-hydrostatic, multilayer model for multiscale free-surface flows.Journal of Computational Physics 2020,418, 109609.  doi:https://doi.org/10.1016/j.jcp.2020.109609.
+
+[22] Roeber, V.; Cheung, K. Boussinesq-type model for energetic breaking waves in fringing reef environment.Coast. Eng. 2012,70, 1–20.
+
+[23] Tavakkol, S.; Lynett, P.  Celeris: A GPU-accelerated open source software with a Boussinesq-type wavesolver for real-time interactive simulation and visualization.Computer Physics Communications 2017,217, 117 – 127.
+
+[24] Kennedy, A.; Chen, Q.; Kirby, J.; Dalrymple, R. Boussinesq modeling of wave transformation, breakingand runup, part I: 1D.J. Waterw. Port Coast. Ocean Eng. 2000,126, 39–47.
+
+[25] Shi, F.; Kirby, J.; Harris, J.; Geiman, J.; Grilli, S.  A high-order adaptive time-stepping TVD solver forBoussinesq modeling of breaking waves and coastal inundation.Ocean Model. 2012,43-44, 36–51
+
+[26] Lynett, P.; Wu, T.; P.L.F., L.  Modeling wave runup with depth-integrated equations.Coast.  Eng. 2002, 46:89–107.
+
+[27] Kim, D.; Lynett, P.  Turbulent mixing and passive scalar transport in shallow flows.Phys.  Fluids 2011,23, 016603.
+
+[28] Yamazaki, Y.; Kowalik, Z.; Cheung, K. Depth-integrated, non-hydrostatic model for wave breaking andrun-up.Int. J. Numer. Meth. Fluids 2009,61, 473–497.
+
+[29] Wei, Z.; Dalrympl, R.; Hérault, A.; Bilotta, G.; Rustico, E.; Yeh, H.  SPH modeling of dynamic impact oftsunami bore on bridge pier.Coast. Eng. 2015,104, 26–42.
+
+[30] Zhang, Y.; Ye, F.; Stanev, E.; Grashorn, S. Seamless cross-scale modeling with SCHISM, Ocean Modelling.Ocean Model. 2016,102, 64–81.
+
+[31] Lin, P.; Liu, P. A numerical study of breaking waves in the surf zone.J. Fluid Mech. 1998,358, 239–264.
+
+[32] Lin, P.; Liu, P. Turbulence transport, vorticity dynamics, and solute mixing under plunging breaking wavesin surf zone.J. Geophys. Res. 1998,103 C8
+
+[33] Horrillo, J.; Wood, A.; Kim, G.; Parambath, A.  A simplified 3-D /Navier–Stokes numerical model forlandslide tsunami: Application to the Gulf of Mexico.J. Geophys. Res./Oceans 2013,118, 6934–6950.
+
+[34] Horrillo, J.; Grilli, S.; Nicolsky, D.; Roeber, V.; Zhang, J. Performance benchmarking tsunami models forNTHMP’s inundation mapping activities.Pure Appl. Geophys. 2015,172, 869–884
+
+[35] Jacobsen,  N.;  Fuhrman,  D.;  Fredsoe,  J.   A wave generation toolbox for the open-source CFD library:OpenFOAM (R).Int. J. Numer. Methods Fluids 2012,70, 1073–1088.
+
+[36] Larsen, B.; Fuhrman, D.  Full-scale CFD simulation of tsunamis.  Part 1:  Model validation and run-up.Coastal Engineering 2019,151
+
+[37] Larsen, B.; Fuhrman, D.  Full-scale CFD simulation of tsunamis. Part 2: Boundary layers and bed shearstresses.Coastal Engineering 2019,151.
+
+[38] Ma, G.; Shi, F.; Kirby, J. Shock-capturing non-hydrostatic model for fully dispersive surface wave processes.Ocean Modeling 2012,43-44, 22–35
+
+[39] Vázquez, M.; Houzeaux, G. Alya: Multiphysics Engineering Simulation Towards Exascale.J. Comput. Sci 2016.
+
+[40] Mukherjee,  A.;  Cajas,  J.;  Houzeaux,  G.;  Lehmkuhl,  O.;  Vázquez,  M.;  Suckale,  J.;  Marras,  S.   Usingfluid-structure interaction to evaluate the energy dissipation of a tsunami run-up through idealized flexible trees. sciencesconf.org:parcfd2020:3202002020.
+
+
 
 
