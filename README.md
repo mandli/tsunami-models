@@ -5,14 +5,19 @@ available tsunami models currently **maintained** and publicly (openly)
 available.  This list was started based on a review paper that is currently
 itself under review.  Check back soon for a draft and how to contribute.
 
+**Cite as:** 
+S. Marras and K. Mandli "MODELING AND SIMULATION OF TSUNAMI IMPACT. 
+A SHORT REVIEW OF RECENT ADVANCES AND FUTURE CHALLENGES" Special Issue: Interdisciplinary Geosciences Perspectives of Tsunami Volume 3, 
+Geosciences 2020 (accepted for publication) 
+
 | Model                  | SpaceDim.           | Equations | Turbul.     | Wavebreak. | FSI | MP  | SD    |
 |------------------------|---------------------|-----------|-------------|------------|-----|-----|-------|
 | GeoCLAW[1]             | 1D/2D/2D(1/2)       | SW        | No          | No         | No  | No  | FV    |
 | NUMA2D[2][3]           | 1D/2D               | SW        | No          | No         | No  | No  | SE/DG |
 | MOST[4]                | 1D/2D               | SW        | No          | No         | No  | No  | FD    |
 | Cliffs[5]              | 1D/2D               | SW        | No          | No         | No  | No  | FD    |
-| Tsunami-HySEA[6]       | 2D                  | SW        | No          | No         | No  | No  | FV    |
-| Multilayer-HySEA[7,8]  | 2D(1/2)             | SW        | No          | No         | No  | Yes | FV    |
+| Tsunami-HySEA[6a,b,c]  | 1D/2D               | SW/B      | No          | Yes        | No  | No  | FV    |
+| Multilayer-HySEA[7,8]  | 1D/2D(1/2)          | SW/B      | No          | Yes        | No  | Yes | FV    |
 | TUNAMI[9,10]           | 1D/2D               | SW        | No          | No         | No  | No  | FD    |
 | NAMI-DANCE[11]         | 1D/2D               | SW        | No          | No         | No  | No  | FD    |
 | COMCOT[12]             | 1D/2D               | SW        | No          | No         | No  | No  | FD    |
@@ -47,7 +52,15 @@ itself under review.  Check back soon for a draft and how to contribute.
 
 [5] Tolkova, E. Land–water boundary treatment for a tsunami model with dimensional splitting.Pure Appl.Geophys. 2014,171, 2289–2314.
 
-[6] Castro,  M.;  Ferreiro Ferreiro,  A.;  Garcia-Rodriguez,  J.;  Gonzalez-Vida,  J.;  Macias,  J.;  Pares,  C.;  ElenaVazquez-Cendon, M. The numerical treatment of wet/dry fronts in shallow flows: application to one-layerand two-layer systems.Math. Comput. Model. 2005,42, 419 – 439.
+[6a] Macías, J.; Castro, M.; Ortega, S.; Escalante, C.; González-Vida, J. Performance Benchmarking of
+Tsunami-HySEA Model for NTHMP’s Inundation Mapping Activities. Pure Appl. Geophys. 2017,
+174, 3147–3183.
+
+[6b] Macías, J.; Castro, M.; Ortega, S.; González-Vida, J. Performance assessment of Tsunami-HySEA model for
+NTHMP tsunami currents benchmarking. Field cases. Ocean Modelling 2020, 152, 101645.
+
+[6c] Macías, J.; Castro, M.; Escalante, C. Performance assessment of the Tsunami-HySEA model for NTHMP
+tsunami currents benchmarking. Laboratory data. Coastal Engineering 2020, 158, 103667.
 
 [7] Macías, J.; Escalante, C.; Castro, M.J. Multilayer-HySEA model validation for landslide generated tsunamis.Part I Rigid slides.Natural Hazards and Earth System Sciences Discussions.  10.5194/nhess-2020-1712020, 2020, 1–33.
 
