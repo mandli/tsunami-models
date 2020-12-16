@@ -6,9 +6,7 @@ available.  This list was started based on a review paper that is currently
 itself under review.  Check back soon for a draft and how to contribute.
 
 **Cite as:** 
-S. Marras and K. Mandli "MODELING AND SIMULATION OF TSUNAMI IMPACT. A SHORT REVIEW OF RECENT ADVANCES AND FUTURE CHALLENGES"
-
-In Special Issue: Interdisciplinary Geosciences Perspectives of Tsunami Volume 3, Geosciences 2020 (accepted for publication)
+S. Marras and K. Mandli "MODELING AND SIMULATION OF TSUNAMI IMPACT. A SHORT REVIEW OF RECENT ADVANCES AND FUTURE CHALLENGES" Interdisciplinary Geosciences Perspectives of Tsunami Volume 3, *Geosciences* (2020) (accepted for publication)
 
 
 | Model                  | SpaceDim.           | Equations | Turbul.     | Wavebreak. | FSI | MP  | SD    |
