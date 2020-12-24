@@ -5,10 +5,9 @@ available tsunami models currently **maintained** and publicly (openly)
 available.  This list was started based on a review paper that is currently
 itself under review.  Check back soon for a draft and how to contribute.
 
-**Citation** 
-
+**Citation:** 
 Marras, S.; Mandli, K.T. *Modeling and Simulation of Tsunami Impact: A Short Review of
-Recent Advances and Future Challenges.* **Geosciences** 2021, 11, 5.
+Recent Advances and Future Challenges.* **Geosciences** (2021) 11, 5.
 
 
 | Model                  | SpaceDim.           | Equations | Turbul.     | Wavebreak. | FSI | MP  | SD    |
