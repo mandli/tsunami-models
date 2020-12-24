@@ -6,7 +6,7 @@ available.  This list was started based on a review paper that is currently
 itself under review.  Check back soon for a draft and how to contribute.
 
 **Cite as:** 
-Marras, S.; Mandli, K. "Modeling and Simulation of Tsunami Impact. a Short Review of Recent Advances and Future Challenges" 11:5 *Geosciences* (2021)
+Marras, S.; Mandli, K. "Modeling and Simulation of Tsunami Impact. a Short Review of Recent Advances and Future Challenges" 11:5 **Geosciences** (2021)
 
 
 
