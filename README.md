@@ -8,7 +8,7 @@ itself under review.  Check back soon for a draft and how to contribute.
 **Citation** 
 
 Marras, S.; Mandli, K.T. *Modeling and Simulation of Tsunami Impact: A Short Review of
-Recent Advances and Future Challenges.* **Geosciences** 2021, 11, 5. https://dx.doi.org/10.3390/1010000
+Recent Advances and Future Challenges.* **Geosciences** 2021, 11, 5.
 
 
 | Model                  | SpaceDim.           | Equations | Turbul.     | Wavebreak. | FSI | MP  | SD    |
