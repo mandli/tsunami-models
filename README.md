@@ -39,7 +39,7 @@ Recent Advances and Future Challenges.* **Geosciences** (2021) 11, 5.
 | waves2FOAM[35-37]      | 2D(tsunami)         | N-S       | RANS        | Yes        | No  | No  | FV    |
 | NHWAVE[38]             | 2D/3D               | N-S       | LES         | Yes        | Yes | Yes | FV/FD |
 | Alya[39,40]            | 2D/3D               | N-S       | LES/WM/RANS | Yes        | Yes | Yes | FE    |
-
+| FVCOM [41,42]          | 3D                  | N-S       | Yes         | Yes        | No  | No  | FV    |
 
 # References
 [1] Berger, M.; George, D.; LeVeque, R.; Mandli, K.  The GeoClaw software for depth-averaged flows withadaptive refinement.Adv. Water Res. 2011,34, 1195–1206.
@@ -128,8 +128,8 @@ tsunami currents benchmarking. Laboratory data. Coastal Engineering 2020, 158, 1
 
 [39] Vázquez, M.; Houzeaux, G. Alya: Multiphysics Engineering Simulation Towards Exascale.J. Comput. Sci 2016.
 
-[40] Mukherjee,  A.;  Cajas,  J.;  Houzeaux,  G.;  Lehmkuhl,  O.;  Vázquez,  M.;  Suckale,  J.;  Marras,  S.   Usingfluid-structure interaction to evaluate the energy dissipation of a tsunami run-up through idealized flexible trees. sciencesconf.org:parcfd2020:3202002020.
+[40] Mukherjee,  A.;  Cajas,  J.;  Houzeaux,  G.;  Lehmkuhl,  O.;  Vázquez,  M.;  Suckale,  J.;  Marras,  S.   Using fluid-structure interaction to evaluate the energy dissipation of a tsunami run-up through idealized flexible trees. sciencesconf.org:parcfd2020:3202002020.
 
+[41] Chen, C.; Liu, H.; Beardsley, R. C. An unstructured grid, finite-volume, three dimensional, primitive equations ocean model: application to coastal ocean and estuarie. J. Atmos. Ocean Technol. 2003, 20 159-186
 
-
-
+[42] Chen, C.; Lai, Z.; Beardsley, R. C.; Sasaki, J.; Lin, J.; Lin, H.; Ji, R.; Sun, Y. The March 11, 2011 Tohoku M9.0 Earthquake-induced Tsunami and Coastal Inundation along the Japanese Coast: A Model Assessment. Progress in Oceanography 2014, 123 84-104
