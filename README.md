@@ -10,7 +10,7 @@ Marras, S.; Mandli, K.T. *Modeling and Simulation of Tsunami Impact: A Short Rev
 Recent Advances and Future Challenges.* **Geosciences** (2021) 11, 5.
 
 
-| Model                  | SpaceDim.           | Equations | Turbul.     | Wavebreak. | FSI | MP  | SD    |
+| Model                  | SpaceDim.           | Equations | Turbul.     | Wavebreak. | FSI | MP  | SD    | 
 |------------------------|---------------------|-----------|-------------|------------|-----|-----|-------|
 | GeoCLAW[1]             | 1D/2D/2D(1/2)       | SW        | No          | No         | No  | No  | FV    |
 | NUMA2D[2][3]           | 1D/2D               | SW        | No          | No         | No  | No  | SE/DG |
@@ -40,6 +40,7 @@ Recent Advances and Future Challenges.* **Geosciences** (2021) 11, 5.
 | NHWAVE[38]             | 2D/3D               | N-S       | LES         | Yes        | Yes | Yes | FV/FD |
 | Alya[39,40]            | 2D/3D               | N-S       | LES/WM/RANS | Yes        | Yes | Yes | FE    |
 | FVCOM [41,42]          | 3D                  | N-S       | Yes         | Yes        | No  | No  | FV    |
+| ANUGA [43]             | 2D                  | SW        |             |            |     |     |       |
 
 # References
 [1] Berger, M.; George, D.; LeVeque, R.; Mandli, K.  The GeoClaw software for depth-averaged flows withadaptive refinement.Adv. Water Res. 2011,34, 1195–1206.
@@ -133,3 +134,6 @@ tsunami currents benchmarking. Laboratory data. Coastal Engineering 2020, 158, 1
 [41] Chen, C.; Liu, H.; Beardsley, R. C. An unstructured grid, finite-volume, three dimensional, primitive equations ocean model: application to coastal ocean and estuarie. J. Atmos. Ocean Technol. 2003, 20 159-186
 
 [42] Chen, C.; Lai, Z.; Beardsley, R. C.; Sasaki, J.; Lin, J.; Lin, H.; Ji, R.; Sun, Y. The March 11, 2011 Tohoku M9.0 Earthquake-induced Tsunami and Coastal Inundation along the Japanese Coast: A Model Assessment. Progress in Oceanography 2014, 123 84-104
+
+[43] Roberts, S.; Davies, G.; Nielsen, O. ANUGA Github Repository https://github.com/anuga-community/anuga_core 2022
+
